@@ -27,5 +27,5 @@ ab.Text="Roblox kicked you but we didnt let them!"wait(2)ab.Text="Status : Activ
 
 --code broker
 
-||||||||||||||||||||||||||||||||||||
+--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--||--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 loadstring(game:HttpGet(('https://pastebin.com/BkeckqXD'),true))()

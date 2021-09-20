@@ -1,4 +1,4 @@
---     anti-afk gui
+--anti-afk gui
 
 
 wait(0.5)local ba=Instance.new("ScreenGui")
